@@ -1,0 +1,12 @@
+# Changes here will be overwritten by Copier
+_commit: 973c39c
+_src_path: https://github.com/python-project-templates/base.git
+add_docs: false
+add_extension: python
+add_wiki: false
+email: t.paine154@gmail.com
+github: tkp-aliases
+project_description: Alias for ccflow-email
+project_name: ccflow-emails
+python_version_primary: '3.11'
+team: the ccflow-emails authors
