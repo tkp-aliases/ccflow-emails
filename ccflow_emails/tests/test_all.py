@@ -1,4 +1,4 @@
-from ccflow_emails import *  # noqa
+from ccflow_emails import *
 
 
 def test_all():
